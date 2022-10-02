@@ -1,0 +1,86 @@
+.every-page{
+    border: 1px solid #000;
+    border-radius: 5px;
+    width: 80%;
+    height: 590px;
+    margin:auto;
+}
+.header-top{
+    background-color: rgb(46,202,127);
+    display: flex;
+    justify-content: space-between;
+ 
+
+}
+.header-left{
+    display: flex;
+
+}
+.header-left img{
+    width: 80px ;
+    height: 80px;
+    margin-top: 40px;
+}
+.title{
+    margin-top: 20px;
+    color: #fff;
+
+}
+.header-rigth p{
+    color: #fff;
+margin-right: 30px;
+margin-top: 50px;
+} 
+.icon ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 30px;
+    margin-top: 50px;
+
+}
+.icon ul li{
+    background-color: #fff;
+    border-radius: 40% 40%;
+    color: #000;
+}
+.icon{
+    margin:-30px;
+
+}
+.container{
+    display: flex;
+}
+.Pages-icons ul{   
+list-style-type: none;
+}
+.Pages-icons ul :hover{
+    color:rgb(48,202,128);
+}
+.page-informations{
+    width: 340px;
+}
+.in-put{
+    width: 160px;
+    color: #fff;
+    height: 30px;
+    background-color: rgb(48,202,128);
+    border-radius: 5px;
+}
+.in-put p{
+    margin: 10px;
+    color: #FFF !important;
+}
+.page-informations hr{
+    width: 50px;
+    background-color:rgb(46,202,127);
+    height: 4px;
+    margin-left: 0;
+}
+.page-informations p{
+    color: rgb(166,166,145);
+}
+.data strong{
+    color: #000;
+
+}
